@@ -5,11 +5,11 @@ DESCRIPTION:
 This game involves attack on aliens from ship using bullets.
 You are given with three ships to encouter coming aliens and kill them and score the most.
 
-Rule:
+RULE:
 If a alien touches your ship, you have lost one ship.
 Speed of aliens approaching the ship will increase level-wise.
 
-Press:
+PRESS:
 Space for shooting bullets
 (</>) for movng the ship left and right
 q for quitting the game.
